@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04939934-ef24-48a0-8486-984bb8fcc411" name="Default Changelist" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,27 +34,42 @@
           </provider>
         </entry>
       </file>
+
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+
             </state>
           </provider>
         </entry>
       </file>
+
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nouns">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+
+
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+
         <entry key="$PROJECT_DIR$" value="ColornewRound1" />
+
+        <entry key="$PROJECT_DIR$" value="Round1adjective" />
+
       </map>
     </option>
   </component>
@@ -116,7 +135,11 @@
       <updated>1547581018054</updated>
       <workItem from="1547581020989" duration="2628000" />
       <workItem from="1547585124075" duration="612000" />
+
       <workItem from="1547751421085" duration="1650000" />
+
+      <workItem from="1547751421085" duration="1298000" />
+
     </task>
     <task id="LOCAL-00001" summary="added adjectives">
       <created>1547582491447</created>
@@ -146,6 +169,7 @@
       <option name="project" value="LOCAL" />
       <updated>1547751777174</updated>
     </task>
+
     <task id="LOCAL-00005" summary="added colors">
       <created>1547754576178</created>
       <option name="number" value="00005" />
@@ -168,6 +192,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="789" extended-state="0" />
+
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4538000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="789" extended-state="0" />
+    <editor active="true" />
+
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -199,9 +234,13 @@
     <MESSAGE value="&#10;color change" />
     <MESSAGE value="added a line to index" />
     <MESSAGE value="changed to dog" />
+
     <MESSAGE value="added colors" />
     <MESSAGE value="added dog to index" />
     <option name="LAST_COMMIT_MESSAGE" value="added dog to index" />
+
+    <option name="LAST_COMMIT_MESSAGE" value="changed to dog" />
+
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/adjectives">
@@ -220,8 +259,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="135">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+
         </state>
       </provider>
     </entry>
