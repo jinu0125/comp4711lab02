@@ -7,7 +7,7 @@
     <body>
 		<p>You should consider getting a
 			<?php
-		 echo "cat";
+		 echo "";
 			?>
 			for a pet.</p>
     </body>
