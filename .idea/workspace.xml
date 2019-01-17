@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -111,7 +111,7 @@
       <updated>1547581018054</updated>
       <workItem from="1547581020989" duration="2628000" />
       <workItem from="1547585124075" duration="612000" />
-      <workItem from="1547751421085" duration="258000" />
+      <workItem from="1547751421085" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="added adjectives">
       <created>1547582491447</created>
@@ -127,11 +127,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547585802563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added a line to index">
+      <created>1547751703385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547751703385</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed to dog">
+      <created>1547751777174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547751777174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3498000" />
+    <option name="totallyTimeSpent" value="4538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="789" extended-state="0" />
@@ -166,7 +180,8 @@
     <MESSAGE value="added colours" />
     <MESSAGE value="&#10;color change" />
     <MESSAGE value="added a line to index" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a line to index" />
+    <MESSAGE value="changed to dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to dog" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/adjectives">
@@ -185,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
