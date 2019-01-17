@@ -7,7 +7,7 @@
     <body>
 		<p>You should consider getting a
 			<?php
-			// put your code here
+		 //code
 			?>
 			for a pet.</p>
     </body>
